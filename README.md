@@ -127,3 +127,11 @@ Silver travels back from his ruined future (E.G.G.-Maggedon) to stop Eggman. Mea
 - **Level 8: Fable Forest** – Realises Eggman's trickery and returns to the forest lab to find him.
 - **Level 9: Final Escape** – Catches up with Sonic and Shadow at the crash site for the final pursuit.
 - **Level 10: Final Boss** – Super Sonic, Doom Shadow & ESP Silver vs. Eggman.
+
+# How to Clone:
+1. copy the Git Repo's link:
+   https://github.com/buckle33/Sonic-Tri-Drive.git
+2. Open your terminal and perform this command:
+   ,,, git clone https://github.com/buckle33/Sonic-Tri-Drive.git ,,,
+3. Open your Godot Engine and import project.godot
+4. Press F5 to build C# binaries and launch the test environment
