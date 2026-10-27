@@ -2,5 +2,5 @@
 This is a brand new 2D Sonic fan game created by myself. I will use this repo to document ideas, progress and development
 
 <p align="center">
-  <img src="/Users/sorrell/Documents/Demo Logo 2.png"alt="Sonic Tri-Drive Logo" width="600"/>
+  <img src="Demo Logo 2.png" alt="Sonic Tri-Drive Logo" width="600"/>
 </p>
