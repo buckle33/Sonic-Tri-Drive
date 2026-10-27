@@ -14,7 +14,7 @@ The game itself will feature 10 main levels - all with 1 act each. Each characte
 
 
 <p align="center">
-  <img src="Level Diagram.png" alt="Sonic Tri-Drive Logo" width="600"/>
+  <img src="Level Diagram.png" alt="Level Design Diagram" width="600"/>
 </p>
 
 while a crude diagram - the idea is that the level remains the same, but there are 3 paths in said level that intertwine, which will be accessible by all 3 characters, but one path will be distinctly 'for' a character. For example:
@@ -26,6 +26,22 @@ While each 'section' is catered toward a specific player character, each charact
 - Silver - has a puzzle to build a bridge to clear a gap
 	- Sonic - can clear the gap with a well-timed bounce jump or Boost
 	- Shadow - can clear the gap using his Chaos Snap ability with a well placed running jump and quick-time reaction
+
+### Sonic The Hedgehog
+Sonic acts as our 'base' character - he is just what you expect:
+<p align="center">
+  <img src="Sonic's Abilities.png" alt="Sonic's Abilities and Features" width="600"/>
+</p>
+
+### Shadow The Hedgehog
+<p align="center">
+  <img src="Shadow's Abilities.png" alt="Shadow's Abilities and Features" width="600"/>
+</p>
+
+### Silver The Hedgehog
+<p align="center">
+  <img src="Silver's Abilities.png" alt="Silver's Abilities and Features" width="600"/>
+</p>
 
 ### Story
 *NOTE - this story is from Sonic's Level order, and so will follow Sonic, and then explain where Shadow and Silver are at this time.*
@@ -111,4 +127,3 @@ Silver travels back from his ruined future (E.G.G.-Maggedon) to stop Eggman. Mea
 - **Level 8: Fable Forest** – Realises Eggman's trickery and returns to the forest lab to find him.
 - **Level 9: Final Escape** – Catches up with Sonic and Shadow at the crash site for the final pursuit.
 - **Level 10: Final Boss** – Super Sonic, Doom Shadow & ESP Silver vs. Eggman.
-
