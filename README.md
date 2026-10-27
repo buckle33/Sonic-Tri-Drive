@@ -12,7 +12,10 @@ The game will feature 3 main gameplay characters; Sonic, Shadow and Silver - eac
 
 The game itself will feature 10 main levels - all with 1 act each. Each character is being written with the assumption that each level takes place at the same time i.e., Sonic's level 2 and Silver's level 2 both take place at the same time, so Sonic and Silver collide in level 2 of the game. Each level will have a 'sandwich' style of level design - 3 distinct paths intertwining with one another. This diagram will explain more visually:
 
-![[Pasted image 20261027100918.png]]
+
+<p align="center">
+  <img src="Level Diagram.png" alt="Sonic Tri-Drive Logo" width="600"/>
+</p>
 
 while a crude diagram - the idea is that the level remains the same, but there are 3 paths in said level that intertwine, which will be accessible by all 3 characters, but one path will be distinctly 'for' a character. For example:
 - Sonic's path - linear, speed-oriented, fast paced gameplay
@@ -24,6 +27,7 @@ While each 'section' is catered toward a specific player character, each charact
 	- Sonic - can clear the gap with a well-timed bounce jump or Boost
 	- Shadow - can clear the gap using his Chaos Snap ability with a well placed running jump and quick-time reaction
 
+### Story
 *NOTE - this story is from Sonic's Level order, and so will follow Sonic, and then explain where Shadow and Silver are at this time.*
 #### Prelude
 We begin with Silver in the near future - once again ruined. Silver is eager to go back in time to find the person responsible for this devastated future, and does so after figuring out only one person could be responsible for this level of destruction - none other than Dr. Eggman!
@@ -49,6 +53,7 @@ Sonic gets out of the behemoth of a space station as it falls into orbit, and mu
 
 Once Dr. Eggman is defeated, we return to Earth, now rid of Eggman's scheming, and Silver's world is back to being a good future once more!
 
+### Levels and Story Collisions
 There will be 10 levels that each character will be able to go through - with 1 act only. There will also be 2 boss fights for each character - themselves. The levels consist of (not in order):
 - Fable Forest - Overgrown, dense forest/jungle with castle elements (towers, structures).
 - E.G.G.L.A.B - Eggman's remote base within the Fable Forest
@@ -62,7 +67,6 @@ There will be 10 levels that each character will be able to go through - with 1 
 - Final Boss - TBD
 
 # Campaign Narrative Outline
-
 ## Core Plot Synopsis
 Silver travels back from his ruined future (E.G.G.-Maggedon) to stop Eggman. Meanwhile, Sonic tracks Eggman through Fable Forest, and Shadow conducts a covert investigation. Eggman manipulates the trio, sending space station E.G.G. S.T.A.R. on a collision course with Earth, forcing all three heroes to unite for the final confrontation.
 
